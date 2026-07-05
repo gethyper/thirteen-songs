@@ -300,7 +300,7 @@
       {
         "track": 1,
         "title": "Telegram Sam",
-        "artist": ""
+        "artist": "Unknown Artist"
       },
       {
         "track": 2,
@@ -320,7 +320,7 @@
       {
         "track": 5,
         "title": "Run's House",
-        "artist": ""
+        "artist": "Unknown Artist"
       },
       {
         "track": 6,
@@ -340,7 +340,7 @@
       {
         "track": 9,
         "title": "Georgia",
-        "artist": "Mountain Goats"
+        "artist": "The Mountain Goats"
       },
       {
         "track": 10,
@@ -350,17 +350,17 @@
       {
         "track": 11,
         "title": "Apple Tree",
-        "artist": "Rylan Badu"
+        "artist": "Erykah Badu"
       },
       {
         "track": 12,
         "title": "Good Woman",
-        "artist": ""
+        "artist": "Unknown Artist"
       },
       {
         "track": 13,
         "title": "Fireplace",
-        "artist": "REM"
+        "artist": "R.E.M."
       }
     ]
   },
