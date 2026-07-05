@@ -292,6 +292,79 @@
     ]
   },
   {
+    "volume": 5,
+    "date": "2026-06-21",
+    "title": "Thirteen Songs (06.21.2026)",
+    "cover": "",
+    "tracks": [
+      {
+        "track": 1,
+        "title": "Telegram Sam",
+        "artist": ""
+      },
+      {
+        "track": 2,
+        "title": "Millionaire",
+        "artist": "Howlin Wolf"
+      },
+      {
+        "track": 3,
+        "title": "Bottom Rung",
+        "artist": "J Church"
+      },
+      {
+        "track": 4,
+        "title": "Dupree My Rules",
+        "artist": "Void"
+      },
+      {
+        "track": 5,
+        "title": "Run's House",
+        "artist": ""
+      },
+      {
+        "track": 6,
+        "title": "Daytime Gamer",
+        "artist": "Skee Mask"
+      },
+      {
+        "track": 7,
+        "title": "I Thank You",
+        "artist": "ZZ Top"
+      },
+      {
+        "track": 8,
+        "title": "Snatch a Piece",
+        "artist": "Otis"
+      },
+      {
+        "track": 9,
+        "title": "Georgia",
+        "artist": "Mountain Goats"
+      },
+      {
+        "track": 10,
+        "title": "Gloomy Sunday",
+        "artist": "Mickey Baker"
+      },
+      {
+        "track": 11,
+        "title": "Apple Tree",
+        "artist": "Rylan Badu"
+      },
+      {
+        "track": 12,
+        "title": "Good Woman",
+        "artist": ""
+      },
+      {
+        "track": 13,
+        "title": "Fireplace",
+        "artist": "REM"
+      }
+    ]
+  },
+  {
     "volume": 6,
     "date": "2026-06-28",
     "title": "Thirteen Songs (06.28.2026)",
