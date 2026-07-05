@@ -290,5 +290,78 @@
         "artist": "Van Morrison"
       }
     ]
+  },
+  {
+    "volume": 6,
+    "date": "2026-06-28",
+    "title": "Thirteen Songs (06.28.2026)",
+    "cover": "",
+    "tracks": [
+      {
+        "track": 1,
+        "title": "Piss Bottle",
+        "artist": "Watt"
+      },
+      {
+        "track": 2,
+        "title": "Bob Dylan Wrote Propaganda Songs",
+        "artist": "Minutemen"
+      },
+      {
+        "track": 3,
+        "title": "Knuckles",
+        "artist": "Mammo"
+      },
+      {
+        "track": 4,
+        "title": "47",
+        "artist": "Sunny Day Real Estate"
+      },
+      {
+        "track": 5,
+        "title": "Better Save Yourself",
+        "artist": "Chris Bell"
+      },
+      {
+        "track": 6,
+        "title": "Misterbibdaobalina",
+        "artist": ""
+      },
+      {
+        "track": 7,
+        "title": "Raid",
+        "artist": "Mad Villain"
+      },
+      {
+        "track": 8,
+        "title": "Rebel Without a Pause",
+        "artist": "PE"
+      },
+      {
+        "track": 9,
+        "title": "Torn",
+        "artist": "Allison's Halo"
+      },
+      {
+        "track": 10,
+        "title": "Glass Museuem",
+        "artist": "Tortoise"
+      },
+      {
+        "track": 11,
+        "title": "Hopefully",
+        "artist": "Asteobrote"
+      },
+      {
+        "track": 12,
+        "title": "Hips",
+        "artist": "Slim Harpo"
+      },
+      {
+        "track": 13,
+        "title": "Absolution",
+        "artist": "Catharsis"
+      }
+    ]
   }
 ]
