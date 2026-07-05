@@ -1,0 +1,75 @@
+:root {
+  --bg: #0e0e12;
+  --ink: #f2f2f5;
+  --muted: #9a9aae;
+  --accent: #ff5470;
+  --line: #2a2a36;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+.wrap { width: min(680px, 92vw); margin-inline: auto; }
+
+.site-header { padding: 56px 0 8px; }
+
+h1 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: clamp(2.2rem, 6vw, 3.2rem);
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+.tagline { color: var(--muted); margin: 6px 0 0; }
+
+main { padding: 32px 0 64px; }
+
+.tape { padding: 28px 0; border-top: 1px solid var(--line); }
+
+.tape-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  margin-bottom: 14px;
+}
+.tape-head .vol {
+  color: var(--accent);
+  font-weight: 600;
+  font-family: "Space Grotesk", sans-serif;
+}
+.tape-head h2 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.3rem;
+  margin: 0;
+  font-weight: 600;
+}
+.tape-head .date { color: var(--muted); font-size: 0.85rem; margin-left: auto; }
+
+ol.tracks { list-style: none; margin: 0; padding: 0; }
+ol.tracks li {
+  display: grid;
+  grid-template-columns: 28px 1fr auto;
+  gap: 12px;
+  padding: 7px 0;
+  align-items: baseline;
+}
+ol.tracks .num { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.85rem; }
+ol.tracks .song { font-weight: 500; }
+ol.tracks .artist { color: var(--muted); font-size: 0.9rem; text-align: right; }
+
+.empty { color: var(--muted); padding: 40px 0; }
+code { background: #1e1e28; padding: 2px 6px; border-radius: 6px; }
+
+@media (max-width: 480px) {
+  ol.tracks li { grid-template-columns: 24px 1fr; }
+  ol.tracks .artist { grid-column: 2; text-align: left; }
+}
